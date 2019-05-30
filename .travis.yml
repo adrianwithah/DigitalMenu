@@ -34,7 +34,7 @@ deploy:
   file: app-release-unsigned.apk
   skip_cleanup: true
   on:
-    repo: adrianwithah/CICDTesting
+    repo: adrianwithah/DigitalMenu
 env:
   global:
   - secure: 24AyaUS8A0VU6yEaqfW+lZKrW8an+CS0659dMQHzMc8e8WmRHRxeqWf07UZ6ZyzNrY3Z5cafr4/4XdJXPexxLMSCPiIsMZbGlNQ1g0zumoxZ3PnCwIM7HzMd0HII0u9fPglsEQ0xWXwlh/ykRJ6ueUyrejHMUZsWVinwYLa4GBfv+e7Hd7egFK4yNQK0lIWVpA8j5wEsQC3WLxpYsVSoKL/GFF9Uf2ct/pr5v10dGxLeDPc/DkLgYJcvhuivdZWl4g5yVfL6drB6wnnUxOaGNWNTVn+n/sSsMqp9nrJzodKSnuuCA9Ava4RCwrRIhRTEq3VzxoZ3DVXLvA+3EIyzxdL54dH1F6/PLyvDE0dbN6cTn/gH6e2vMdcVsyB2/CRxUJL91Crq2YGqS60VX6kZ3Z57rAsWAZzgp6EkhOQ4TqhgO9/QEpfnW52ZyACTzFUgxsu0/S8KJ5rXi2LjgENO1IW8K2Fr4Xocg/AH/uAcCiNLOkZ5opR0Hdu/KkAF52ztxhqMToTBmKC/eioSzmERqRwsAkf4IKptLscJb+aeFM4Gi08WJko0irB+X9o+VAi7l/JWj92AZU/gv20mESCbadFabU8s5PvER6Hv74yKMCV/Ku36uqlQjeVRqbIO27QUYeqbs5sw5NClh67JlrBJUT/zuZ4HEoi64ae0O72rnUg=
