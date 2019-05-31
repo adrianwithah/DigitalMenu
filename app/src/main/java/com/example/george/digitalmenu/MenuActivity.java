@@ -73,7 +73,7 @@ public class MenuActivity extends AppCompatActivity implements MenuContract.View
 
     @Override
     public void displayMenu(Restaurant r) {
-        displayThemePicture(r);
+//        displayThemePicture(r);
         displayCategories(r);
     }
 
